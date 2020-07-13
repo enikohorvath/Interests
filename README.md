@@ -1,5 +1,5 @@
-# Course
-Visual Studio
-HTML, CSS
-Javascript
+# Course:
+Visual Studio:
+HTML, CSS,
+Javascript,
 PHP
