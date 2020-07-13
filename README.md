@@ -2,6 +2,6 @@
 Visual Studio:
 HTML, CSS,
 Javascript,
-PHP
-R programming
-Data science
+PHP,
+R programming,
+Data science,
